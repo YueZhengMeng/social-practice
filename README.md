@@ -21,4 +21,8 @@ yarn lint
 ```
 
 ### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference](https://cli.vuejs.org/config/).  
+
+SocialPracticeManager项目前端部分备份
+详细见  
+https://github.com/YueZhengMeng/SocialPracticeManager
